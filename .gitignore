@@ -1,0 +1,8 @@
+MANIFEST
+dist
+corpora
+tags
+./Makefile
+__pycache__
+build/
+
